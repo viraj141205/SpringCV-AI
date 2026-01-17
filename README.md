@@ -71,7 +71,7 @@ cd frontend
 npm install
 npm start
 
-🧠 How It Works
+## 🧠 How It Works
 
 User enters personal details, skills, and job role
 
