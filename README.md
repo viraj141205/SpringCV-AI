@@ -39,23 +39,6 @@ The project is built with **Spring Boot + Spring AI** on the backend and **React
 
 ---
 
-## 📂 Project Structure
-
-SpringCV-AI/
-│
-├── backend/ # Spring Boot + Spring AI
-│ ├── src/
-│ ├── pom.xml
-│
-├── frontend/ # React application
-│ ├── src/
-│ ├── package.json
-│
-├── README.md
-├── .gitignore
-
----
-
 ## ⚙️ Getting Started
 
 ### 1️⃣ Clone the Repository
@@ -70,35 +53,10 @@ mvn spring-boot:run
 cd frontend
 npm install
 npm start
+```
+## 👨‍💻 Author
 
-## 🧠 How It Works
+**Viraj Lathiya**  
+Backend Developer | Java | Spring Boot | Spring AI  
+🔗 GitHub: [viraj141205](https://github.com/viraj141205)  
 
-User enters personal details, skills, and job role
-
-Frontend sends data to Spring Boot API
-
-Spring AI processes the input using AI models
-
-A professional resume is generated and returned
-
-Resume is displayed/downloaded on the frontend
-
-📌 Future Enhancements
-
-📄 Resume PDF download
-
-🎯 Multiple resume templates
-
-🔐 User authentication
-
-☁️ Cloud deployment
-
-🤖 More AI prompt optimization
-
-👨‍💻 Author
-
-Viraj Lathiya
-
-GitHub: [GitHub](https://github.com/viraj141205)
-
-Competitive Programmer | Backend Developer | Java | Spring Boot
